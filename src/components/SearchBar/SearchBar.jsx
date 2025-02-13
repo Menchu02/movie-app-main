@@ -8,6 +8,7 @@ export default function SearchBar({ filterByName, input }) {
         onChange={filterByName}
         className={styles.searchInput}
         value={input}
+        placeholder='Buscar película'
       />
     </div>
   );
