@@ -1,0 +1,133 @@
+.headerContainer {
+  position: fixed;
+  z-index: 100;
+  width: 100vw;
+  top: 0px;
+}
+.navContainer {
+  /* position: fixed;
+  z-index: 100;
+  width: 100vw;
+  top: 0px; */
+  display: flex;
+  background: #14213d;
+  color: #fca311;
+  font-size: 27px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
+}
+.navLogoContainer {
+  width: 90px;
+  height: 120px;
+  display: flex;
+
+  align-items: center;
+}
+.navLogo {
+  width: 70px;
+  padding-left: 25px;
+}
+
+.navTitle {
+  padding-right: 30px;
+}
+
+.navLinksVisible {
+  padding-top: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  gap: 35px;
+  color: #fca311;
+  font-weight: 500;
+}
+
+#homeLink {
+  text-decoration: none;
+  color: #fca311;
+}
+#homeLink:visited {
+  text-decoration: none;
+  color: #fca311;
+}
+
+#homeLink:hover {
+  opacity: 0.7;
+}
+
+#formLink {
+  text-decoration: none;
+  color: #fca311;
+}
+
+#formLink:visited {
+  text-decoration: none;
+  color: #fca311;
+}
+
+#formLink:hover {
+  opacity: 0.7;
+}
+
+#favoriteLink {
+  text-decoration: none;
+  color: #fca311;
+}
+
+#favoriteLink:visited {
+  text-decoration: none;
+  color: #fca311;
+}
+
+#favoriteLink:hover {
+  opacity: 0.7;
+}
+.navMenu {
+  padding-right: 15px;
+  padding-top: 14px;
+  font-size: 35px;
+}
+
+@media (max-width: 760px) {
+  .navLinksVisible {
+    z-index: 0;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    right: 0;
+    top: 82px;
+    background-color: #14213d;
+    align-content: center;
+    padding: 78px 15px 30px 15px;
+    /* padding-top: 78px; */
+    border-radius: 0 0 15px 15px;
+  }
+  .navLinksInvisible {
+    display: none;
+  }
+
+  .navLinks li {
+    font-weight: bold;
+  }
+  .navMenu {
+    display: inline;
+  }
+}
+@media (min-width: 761px) {
+  .navLinksInvisible {
+    padding-top: 12px;
+  padding-right: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  gap: 35px;
+  color: #fca311;
+  font-weight: 500;
+  }
+  .navMenu {
+    display: none;
+  }
+}

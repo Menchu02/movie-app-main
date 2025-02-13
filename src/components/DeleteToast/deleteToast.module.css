@@ -1,0 +1,12 @@
+.deleteToastContainer{
+    /* visibility: hidden; */
+    width: 300px;
+    border: solid 1px black;
+    background-color: #e5e5e5c0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 15px;
+    border-radius: 15px;
+}

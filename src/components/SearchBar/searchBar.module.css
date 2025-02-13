@@ -1,0 +1,38 @@
+.searchBarContainer {
+  z-index: 1000;
+  width:100%;
+  background-color: #14213d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 15px 0px ;
+  margin-top: 120px;
+  position:fixed;
+  top:120;
+}
+
+.searchInput {
+  
+  width: 62vw;
+  height: 25px;
+  border-radius: 10px;
+  border: none;
+  max-width: 750px;
+  
+}
+
+.searchButton {
+  background-color: #fca311;
+  height: 25px;
+  border-radius: 10px;
+  padding: 0 10px;
+  border: none;
+  font-weight: bold;
+  color: #14213d;
+}
+
+.searchButton:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}

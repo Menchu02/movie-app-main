@@ -1,0 +1,55 @@
+.cardContainer {
+  width: 150px;
+  height: 225px;
+  position: relative;
+  overflow: hidden;
+}
+
+.movieImgContainer {
+  width: 150px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardImage {
+  height: 225px;
+  width:150px;
+}
+
+.deleteIcon {
+  color: #fca311;
+  font-size: 25px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.deleteIcon:hover {
+  opacity: 0.7;
+}
+
+.editIcon {
+  color: #fca311;
+  font-size: 19px;
+  position: absolute;
+  bottom: 10px;
+  right: 12px;
+}
+
+.editIcon:hover {
+  opacity: 0.7;
+}
+
+.favoriteIcon {
+  color: #fca311;
+  font-size: 17px;
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  
+}
+.favoriteIcon:hover {
+  opacity: 0.7;
+}

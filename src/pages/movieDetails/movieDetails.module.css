@@ -1,0 +1,44 @@
+.movieContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #0e1422;
+  padding: 140px 15px 15px 15px;
+}
+.imgContainer {
+  width: 85vw;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+
+  height: 60vh;
+}
+
+.movieInfo {
+  padding: 20px 17px;
+  color: #e5e5e5;
+}
+
+.movieName {
+  color: #fca311;
+  padding: 15px 0px;
+}
+
+.movieDirector {
+  padding-top: 10px;
+}
+
+.movieGenre {
+  padding-bottom: 10px;
+}
+@media (min-width: 750px) {
+  .movieInfo {
+    padding: 20px 10%;
+  }
+
+  .imgContainer {
+    width: 900px;
+    height: 640px;
+  }
+}

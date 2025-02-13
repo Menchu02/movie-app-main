@@ -1,0 +1,252 @@
+[
+  {
+    "name": "The Shawshank Redemption",
+    "img": "https://i.pinimg.com/originals/a2/5b/4a/a25b4ae8e03c4b2ebd06d861a082956a.jpg",
+    "director": "Frank Darabont",
+    "year": 1994,
+    "isFavorite": false,
+    "sinopsis": "Andrew Dufresne es un hombre inocente que es acusado del asesinato de su mujer. Tras ser condenado a cadena perpetua, es enviado a la cárcel de Shawshank, en Maine. Con el paso de los años, Andrew conseguirá ganarse la confianza del director del centro y el respeto de los otros convictos, especialmente de Red, el jefe de la mafia de los prisioneros.",
+    "genre": "Drama, Misterio, Carcel, Policial",
+    "id": "1"
+  },
+  {
+    "name": "Star Wars: Episode IV - A New Hope",
+    "img": "https://kbimages1-a.akamaihd.net/538b1473-6d45-47f4-b16e-32a0a6ba7f9a/1200/1200/False/star-wars-episode-iv-a-new-hope-3.jpg",
+    "director": "George Lucas",
+    "year": 1977,
+    "isFavorite": false,
+    "sinopsis": "La nave en la que viaja la princesa Leia es capturada por las tropas imperiales al mando del temible Darth Vader. Antes de ser atrapada, Leia consigue introducir un mensaje en su robot R2-D2, quien acompañado de su inseparable C-3PO logran escapar. Tras aterrizar en el planeta Tattooine son capturados y vendidos al joven Luke Skywalker, quien descubrirá el mensaje oculto que va destinado a Obi Wan Kenobi, maestro Jedi a quien Luke debe encontrar para salvar a la princesa.",
+    "genre": "Ciencia ficción, Acción, Aventura, Space ópera, Fantasía",
+    "id": "2"
+  },
+  {
+    "name": "Falling Down",
+    "img": "https://cdn.shopify.com/s/files/1/1416/8662/products/falling_down_1993_original_flm_art_a_1024x1024.jpg",
+    "director": "Joel Schumacher",
+    "year": 1993,
+    "isFavorite": false,
+    "sinopsis": "En Los Ángeles, durante una jornada especialmente agobiante a causa del calor y del colapso del tráfico, de repente, un ciudadano normal se rebela de manera violenta y destructiva contra todo lo que lo rodea. William 'D-Fens' Foster (Michael Douglas) no es más que un hombre corriente que supera como puede las frustraciones de cada día y que lo único que quiere es regresar a casa. Un oficial del departamento de policía (Robert Duvall) intentará poner fin a su violencia y agresividad.",
+    "genre": "Acción, Thriller, Misterio, Comedio, Drama, Aventura, Comedia negra, Crimen",
+    "id": "3"
+  },
+  {
+    "name": "Titan A.E.",
+    "img": "https://i.pinimg.com/736x/5c/19/b5/5c19b5e0c692b47f5d4da3e04ce87a91--titan-ae-fountain.jpg",
+    "director": "Don Bluth & Gary Goldman",
+    "year": 2000,
+    "isFavorite": false,
+    "sinopsis": "Año 3208, la Tierra está siendo atacada por los malvados alienígenas Drej. Cale es la única esperanza que queda para salvar la raza Humana después de la destrucción de la Tierra.",
+    "genre": "Acción, Animación, Ciencia ficción, Infantil, Aventura",
+    "id": "4"
+  },
+  {
+    "name": "Russian Ark (Русский ковчег)",
+    "img": "https://images.justwatch.com/poster/241032017/s592/russian-ark",
+    "director": "Aleksandr Sokúrov",
+    "year": 2002,
+    "isFavorite": false,
+    "sinopsis": "Un marqués francés se pasea a través de un vasto laberinto de corredores, teatros y salones de baile en una recepción para el embajador persa. Obra maestra realizada en una única toma, destaca por ser la primera película en formato de alta definición sin comprimir, y la primera película comercial sin editar, pues consiste en un solo plano secuencia con Steadicam de 90 minutos. Fue rodada el 23 de diciembre de 2001 en el Museo del Hermitage.",
+    "genre": "Ficción histórica, Drama, Misterio, Experimental, Fantasía, Pieza de época",
+    "id": "5"
+  },
+  {
+    "name": "Brave",
+    "img": "https://img5.allocine.fr/acmedia/medias/nmedia/18/89/91/04/20072149.jpg",
+    "director": "Mark Andrews, Brenda Chapman, Steve Purcell",
+    "year": 2012,
+    "isFavorite": false,
+    "sinopsis": "Merida, la indómita hija del Rey Fergus y de la Reina Elinor, es una hábil arquera que decide romper con una antigua costumbre, que es sagrada para los señores de la tierra: el gigantesco Lord MacGuffin, el malhumorado Lord Macintosh y el cascarrabias Lord Dingwall. Las acciones de Merida desencadenan el caos y la furia en el reino. Además, pide ayuda a una sabia anciana que le concede un deseo muy desafortunado. La muchacha tendrá que afrontar grandes peligros antes de aprender qué es la auténtica valentía.",
+    "genre": "Animacion Infantil",
+    "id": "6"
+  },
+  {
+    "name": "Ainbo",
+    "img": "https://i0.wp.com/ainbomovie.com/wp-content/uploads/2020/11/AINBO-Poster-Artwork-2020.jpg?ssl=1",
+    "director": "Jose Zelada, Richard Claus",
+    "year": 2021,
+    "isFavorite": false,
+    "sinopsis": "La pequeña Ainbo vive en lo más profundo de la selva amazónica. Tras perder a su madre y pelearse con los adultos de su aldea, esta joven arquera emprende un viaje para salvar a su pueblo del poder destructor del hombre blanco. La acompañan sus dos guías espirituales, un avispado armadillo y un campechano tapir.",
+    "genre": "Animacion Infantil",
+    "id": "7"
+  },
+  {
+    "name": "Aladdin",
+    "img": "https://es.web.img3.acsta.net/medias/nmedia/18/73/54/02/20415767.jpg",
+    "director": "Guy Ritchie",
+    "year": 2019,
+    "isFavorite": false,
+    "sinopsis": "Aladdin Mena Massoud es un adorable pero desafortunado ladronzuelo enamorado de la hija del Sultán, la princesa Jasmine (Naomi Scott). Para intentar conquistarla, acepta el desafío de Jafar (Marwan Kenzari), que consiste en entrar a una cueva en mitad del desierto para dar con una lámpara mágica que le concederá todos sus deseos. Allí es donde Aladdín conocerá al Genio (Will Smith), dando inicio a una aventura como nunca antes había imaginado",
+    "genre": "Animacion Infantil",
+    "id": "8"
+  },
+  {
+    "name": "Home",
+    "img": "https://es.web.img2.acsta.net/pictures/15/02/06/14/05/242395.jpg",
+    "director": "Tim Johnson",
+    "year": 2015,
+    "isFavorite": false,
+    "sinopsis": "Cuando el alienígena más irritantemente optimista de la galaxia se encuentra huyendo de su propia raza, se verá forzado a formar equipo con una chica adolescente muy testaruda. Estos extraños fugitivos acabarán salvando el planeta. Adaptación del popular libro The True Meaning of Smekday, de Adam Rex. Voces originales: Jim Parsons, Rihanna, Jennifer Lopez y Steve Martin.",
+    "genre": "Animacion Infantil",
+    "id": "9"
+  },
+  {
+    "name": "Anna y Bruno",
+    "img": "https://i.pinimg.com/originals/08/2b/96/082b969867191ab707c42faecc350021.jpg",
+    "director": "Carlos Carrera",
+    "year": 2017,
+    "isFavorite": false,
+    "sinopsis": "Ana es una curiosa niña que se hace amiga de los seres imaginarios de los pacientes de un hospital psiquiátrico, donde recientemente ha llegado junto con su madre. Con la ayuda de sus nuevos amigos intentará escapar de ahí para buscar a su padre y reunir nuevamente a su familia.",
+    "genre": "Animacion Infantil",
+    "id": "10"
+  },
+  {
+    "name": "Titanic",
+    "img": "https://i.pinimg.com/236x/39/d1/01/39d101063c4e217323df91b0551175af.jpg",
+    "director": "James Cameron",
+    "year": 1998,
+    "isFavorite": false,
+    "sinopsis": "Jack es un joven artista que gana un pasaje para viajar a América en el Titanic, el transatlántico más grande y seguro jamás construido. A bordo del buque conoce a Rose, una chica de clase alta que viaja con su madre y su prometido Cal, un millonario engreído a quien solo interesa el prestigio de la familia de su prometida. Jack y Rose se enamoran a pesar de las trabas que ponen la madre de ella y Cal en su relación. Mientras, el lujoso transatlántico se acerca a un inmenso iceberg",
+    "genre": "Drama Histórico",
+    "id": "11"
+  },
+  {
+    "name": "El Niño",
+    "img": "https://imgcuore4.elperiodico.com/ef/5e/bd/203913-jpg-r_1920_1080-f_jpg-q_x-xxyxx-600.jpg",
+    "director": "Daniel Monzón",
+    "year": 2014,
+    "isFavorite": false,
+    "sinopsis": "La frontera sur de Europa es tierra de contrabando. Desafiando la autoridad de los capos locales El Niño y El Compi, unos chavales de 20 años deciden ir por su cuenta y se introducen en el narcotráfico casi como un juego. Se encontrarán con Jesús y Eva, dos agentes de la policía antidroga que tienen en su punto de mira a El Inglés, el hombre que dirige el tráfico de drogas en el estrecho de Gibraltar",
+    "genre": "Drama",
+    "id": "12"
+  },
+  {
+    "name": "The matrix",
+    "img": "https://sm.ign.com/ign_es/screenshot/default/matrix_c1cf.jpg",
+    "director": "Lana Wachowski",
+    "year": 1999,
+    "isFavorite": false,
+    "sinopsis": "El programador informático Thomas Anderson, más conocido en el mundo de los hacker como Neo, está en el punto de mira del temible agente Smith. Otros dos piratas informáticos, Trinity y Morfeo, se ponen en contacto con Neo para ayudarlo a escapar. Matrix te posee. Sigue al conejo blanco",
+    "genre": "Acción",
+    "id": "13"
+  },
+  {
+    "name": "Celda 221",
+    "img": "https://es.web.img3.acsta.net/pictures/14/02/13/13/19/498709.jpg",
+    "director": "Daniel Monzón",
+    "year": 2009,
+    "isFavorite": false,
+    "sinopsis": "Juan, funcionario de prisiones, se presenta en su nuevo destino un día antes de su incorporación oficial. Allí, sufre un accidente minutos antes de que se desencadene un motín en el sector de los FIES, los presos más temidos y peligrosos. Sus compañeros abandonan a su suerte el cuerpo desmayado de Juan en la Celda 211. Al despertar, Juan se hará pasar por un preso más ante los amotinados",
+    "genre": "Drama",
+    "id": "14"
+  },
+  {
+    "name": "No habrá paz para los malvados",
+    "img": "https://th.bing.com/th/id/R.c383074d5fca30011be993cf6249d6c3?rik=AJH3e3BNmNXpqA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-Jq4awZUzcMU%2fT0FETb4X9fI%2fAAAAAAAALoU%2ffbtFTr6jKpw%2fs1600%2fNo_Habra_Paz_Para_Los_Malvados.jpg&ehk=2515uQhhPQvK2HopKaH%2fnfMr5K7nW20ZS%2bC7RWyg7yo%3d&risl=&pid=ImgRaw&r=0",
+    "director": "Enrique Urbizu",
+    "year": 2011,
+    "isFavorite": false,
+    "sinopsis": "Un día, volviendo a casa muy borracho, el inspector de policía Santos Trinidad, se ve involucrado en un triple asesinato. Hay un testigo que consigue escapar y que podría incriminar al inspector, por lo que emprende una investigación. Mientras, la juez Chacón avanza en el caso y sospecha que podría tratarse de un asunto mas grave que un ajuste de drogas",
+    "genre": "Suspense",
+    "id": "15"
+  },
+  {
+    "name": "Shutter Island",
+    "img": "https://th.bing.com/th/id/R.b05d3c0855ffc9fbfc38bcb99f67654d?rik=EMKN3OevOVJRRA&pid=ImgRaw&r=0",
+    "director": "Martin Scorsese",
+    "year": 2010,
+    "isFavorite": false,
+    "sinopsis": "Verano de 1954. Los agentes judiciales Teddy Daniels y Chuck Aule son destinados a una remota isla del puerto de Boston para investigar la desaparición de una peligrosa asesina recluida en el hospital psiquiátrico Ashecliffe, un centro penitenciario para criminales perturbados dirigido por el siniestro doctor John Cawley. Pronto descubrirán que el centro guarda muchos secretos, y que la isla esconde algo más peligroso que los pacientes.",
+    "genre": "Misterio, Suspense",
+    "id": "16"
+  },
+  {
+    "name": "Back To The Future",
+    "img": "https://es.web.img3.acsta.net/pictures/14/03/11/10/30/351336.jpg",
+    "director": "Robert Zemeckis",
+    "year": 1985,
+    "isFavorite": false,
+    "sinopsis": "Marty McFly, un estudiante de secundaria de 17 años, es enviado accidentalmente treinta años al pasado en un DeLorean que viaja en el tiempo, inventado por su gran amigo, el excéntrico científico Doc Brown.",
+    "genre": "Ciencia ficción, Comedia",
+    "id": "17"
+  },
+  {
+    "name": "El Pianista",
+    "img": "https://th.bing.com/th/id/R.2545310d2dd4a50de345d90a992d8259?rik=ZC7nN5Diun9Ivw&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9bljuWsSNxEzUaByR4VoE7kiaSz.jpg&ehk=hpcvXMxzH9ayEKy9R8iF2RXT7jPcUNH7S9EMb%2fxvexU%3d&risl=&pid=ImgRaw&r=0",
+    "director": "Roman Polanski",
+    "year": 2002,
+    "isFavorite": false,
+    "sinopsis": "Varsovia, 1939. El pianista polaco de origen judío Wladyslaw Szpilman (Adrien Brody) interpreta un tema de Chopin en la radio nacional de Polonia mientras la aviación alemana bombardea la capital. El régimen nazi ha invadido el país, y como hace en otros países invadidos, lleva a cabo la misma política con respecto a los judíos. Así Szpilman y toda su familia -sus padres, su hermano y sus dos hermanas- se ven obligados a dejar su casa y todo lo que les pertenece para trasladarse con miles de personas de origen judío al ghetto de Varsovia. Mientras Wladyslaw trabaja como pianista en un restaurante propiedad de un judío que colabora con los nazis, su hermano Henryk (Ed Stoppard) prefiere luchar contra los nazis. Pero tres años más tarde, los habitantes del ghetto son trasladados en trenes hacia campos de concentración.",
+    "genre": "Drama, Guerra, Música, Europeas",
+    "id": "18"
+  },
+  {
+    "name": "La Milla Verde",
+    "img": "https://es.web.img2.acsta.net/medias/nmedia/18/74/37/43/20156807.jpg",
+    "director": "Frank Darabont",
+    "year": 1999,
+    "isFavorite": false,
+    "sinopsis": "En el sur de los Estados Unidos, en plena Depresión, Paul Edgecomb es un vigilante penitenciario a cargo de la Milla Verde, un pasillo que separa las celdas de los reclusos condenados a la silla eléctrica. Esperando su ejecución está John Coffey, un gigantesco negro acusado de asesinar brutalmente a dos hermanas de nueve años. Tras una personalidad ingenua, Coffey esconde un don sobrenatural prodigioso. A medida que transcurre la historia, Paul Edgecomb aprende que los milagros ocurren... incluso en los lugares más insospechados.",
+    "genre": "Drama, Fantasía, Crimen",
+    "id": "19"
+  },
+  {
+    "name": "Interstellar",
+    "img": "https://es.web.img3.acsta.net/pictures/14/09/17/19/35/236255.jpg",
+    "director": "Christopher Nolan",
+    "year": 2014,
+    "isFavorite": false,
+    "sinopsis": "Narra las aventuras de un grupo de exploradores que hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.",
+    "genre": "Acción, Aventura, Drama, Ciencia ficción, Misterio , Suspenso",
+    "id": "20"
+  },
+  {
+    "name": "El Orfanato",
+    "img": "https://es.web.img3.acsta.net/pictures/14/04/14/10/36/123417.jpg",
+    "director": "Juan Antonio Bayona",
+    "year": 2007,
+    "isFavorite": false,
+    "sinopsis": "Laura se instala con su familia en el orfanato en el que creció de niña. Su propósito es abrir una residencia para niños discapacitados. El ambiente del viejo caserón despierta la imaginación de su hijo, que empieza a dejarse arrastrar por la fantasía. Los juegos del niño inquietan cada vez más a Laura, que empieza a sospechar que en la casa hay algo que amenaza su familia.",
+    "genre": "Suspenso, Terror, Drama",
+    "id": "21"
+  },
+  {
+    "name": "Princess Mononoke",
+    "img": "https://www.vertigofilms.es/wp-content/uploads/2019/08/immg.png",
+    "director": "Hayao Miyazaki",
+    "year": 1997,
+    "isFavorite": false,
+    "sinopsis": "Con el fin de curar la herida que le ha causado un jabalí enloquecido, el joven Ashitaka sale en busca del dios Ciervo, pues sólo él puede liberarlo del sortilegio. A lo largo de su periplo descubre cómo los animales del bosque luchan contra hombres que están dispuestos a destruir la Naturaleza.",
+    "genre": "Animacion, Fantástico",
+    "id": "22"
+  },
+  {
+    "name": "La Vida de Pi",
+    "img": "https://es.web.img3.acsta.net/medias/nmedia/18/92/99/86/20312878.jpg",
+    "director": "Ang Lee",
+    "year": 2012,
+    "isFavorite": false,
+    "sinopsis": "Tras un naufragio en medio del océano Pacífico, el joven hindú Pi, hijo de un guarda de zoo que viajaba de la India a Canadá, se encuentra en un bote salvavidas con un único superviviente, un tigre de bengala con quien labrará una emocionante, increíble e inesperada relación",
+    "genre": "Drama, Aventura",
+    "id": "23"
+  },
+  {
+    "name": "Mad Max: Furia en la carretera",
+    "img": "https://es.web.img3.acsta.net/pictures/15/04/06/12/54/095278.jpg",
+    "director": "George Miller",
+    "year": 2015,
+    "isFavorite": false,
+    "sinopsis": "Perseguido por su turbulento pasado, Mad Max cree que la mejor forma de sobrevivir es ir solo por el mundo. Sin embargo, se ve arrastrado a formar parte de un grupo que huye a través del desierto en un War Rig conducido por una Emperatriz de élite: Furiosa. Escapan de una Ciudadela tiranizada por Immortan Joe, a quien han arrebatado algo irreemplazable. Enfurecido, el Señor de la Guerra moviliza a todas sus bandas y persigue implacablemente a los rebeldes en una guerra de la carretera de altas revoluciones... Cuarta entrega de la saga post-apocalíptica que resucita la trilogía que a principios de los ochenta protagonizó Mel Gibson.",
+    "genre": "Acción. Ciencia Ficción",
+    "id": "24"
+  },
+  {
+    "name": "Tiempos Modernos",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Modern_Times_poster.jpg/640px-Modern_Times_poster.jpg",
+    "director": "Charles Chaplin",
+    "year": 1936,
+    "isFavorite": false,
+    "sinopsis": "Extenuado por el frenético ritmo de la cadena de montaje, un obrero metalúrgico acaba perdiendo la razón. Después de recuperarse en un hospital, sale y es encarcelado por participar en una manifestación en la que se encontraba por casualidad. En la cárcel, también sin pretenderlo, ayuda a controlar un motín, gracias a lo cual queda en libertad. Una vez fuera, reemprende la lucha por la supervivencia en compañía de una joven huérfana a la que conoce en la calle.",
+    "genre": "Comedia, Cine Mudo",
+    "id": "25"
+  }
+]

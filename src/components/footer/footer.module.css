@@ -1,0 +1,24 @@
+.footerContainer {
+    background-color: #14213d;
+    color: #fca311;
+    padding: 15px;
+}
+
+.iconsContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.socialContainer {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    font-size: 25px;
+}
+
+.copyright {
+    color: #e5e5e5;
+    display: flex;
+    justify-content: center;
+}

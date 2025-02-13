@@ -1,0 +1,57 @@
+.DeleteModalContainer {
+    
+    width: 340px;
+    background-color: #e5e5e5c0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 300px;
+    padding: 15px 10px;
+    border-radius: 10px;
+}
+
+.DeleteModalContainerHidden {
+    visibility: hidden;
+    /* width: 340px;
+    background-color: #e5e5e5c0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 300px;
+    padding: 15px 10px;
+    border-radius: 10px; */
+}
+
+.ModalText {
+    text-align: center;
+}
+
+.ModalButtons {
+    display: flex;    
+    gap: 30px;
+    
+}
+
+.cancelButton {
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    color:#14213d;
+    font-weight: bold;
+    padding: 7px 15px;
+
+}
+.confirmButton {
+    width: 100px;
+    background-color: #fca311;
+    border: none;
+    border-radius: 10px;
+    color:#14213d;
+    font-weight: bold;
+    padding: 7px 15px;
+
+}
