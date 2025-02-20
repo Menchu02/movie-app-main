@@ -1,5 +1,10 @@
 import './App.css';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import {
+  BrowserRouter as Router,
+  Route,
+  Routes,
+  Navigate,
+} from 'react-router-dom';
 import MovieList from './components/movieList/MovieList';
 import MovieDetails from './pages/movieDetails/MovieDetails';
 import Navbar from './components/navbar/Navbar';
@@ -17,7 +22,8 @@ function App() {
         <Route path='edit/:id' element={<FormPages />}></Route>
         <Route path='/' element={<MovieList />}></Route>
         <Route path='movies/form/' element={<FormPages />}></Route>
-        <Route path= '/favoriteMovies/' element={<FavoriteMovies/>}></Route>
+        <Route path='/favoriteMovies/' element={<FavoriteMovies />}></Route>
+        <Route path='*' element={<Navigate to='/' />} />
       </Routes>
 
       <Footer />
