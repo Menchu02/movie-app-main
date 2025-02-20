@@ -73,15 +73,7 @@ export default function MovieList() {
           ''
         )}
       </div>
-      {/* <div className={styles.searchBarContainer}>
-        <input
-          onChange={filterByName}
-          className={styles.searchInput}
-          type='text'
-          value={input}
-        />
-        <button className={styles.searchButton}>Buscar</button>
-      </div> */}
+
       <SearchBar filterByName={filterByName} input={input} />
       <div className={styles.movieList}>
         {movies.map((item) => (
@@ -105,15 +97,3 @@ export default function MovieList() {
     </div>
   );
 }
-
-// <div>
-// <Navbar />
-// <ul className={styles.movieList}>
-//   {movies.map((item) => (
-//     <li key={item.id}><MovieCard /></li>
-
-//   ))}
-// </ul>
-
-// <Footer />
-// </div>
